@@ -19,8 +19,6 @@ This is my personal repo where I have some code for projects I have worked on th
 | `JustinBrantley_CV` | The LaTex files for my CV/resume |
 | `BasicNeuralPrediction_Example_MATLAB` | A simple tutorial I wrote on how to use `MATLAB` classes for basic prediction using neural data |
 | `FigureMaking-MATLAB-EEG` | Some basic tutorials on figure making in `MATLAB`. Check out the corresponding [blog posts](https://jabrantley.github.io/year-archive/) |
-|
-
 
 
 <!---
