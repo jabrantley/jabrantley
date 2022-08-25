@@ -15,7 +15,7 @@ This is my personal repo where I have some code for projects I have worked on th
 | `NEUROLEG` | The contains the MATLAB code I used for implementing a real-time EEG- and EMG-based brain-machine interface for amputees | 
 | `EmpericalBayes-Baseball` | This is a `python` adaptation of the book [_Introduction to Empirical Bayes: Examples from Baseball Statistics_](https://drob.gumroad.com/l/empirical-bayes) |
 | `Deep-Learning` | A (small but on-going) collection of some of my deep learning notebooks. I have many more but I try to clean them up before posting |
-| `Baseball_Notebooks` | A few notebooks related to baseball analysis. As I continue to try new things, I will add them to the repo | 
+| `Baseball_Notebooks` | A few notebooks related to baseball analysis. As I continue to try new things, I will add them to the repo. e.g., predicting future OBP using past values. I try ML, emperical Bayes, ARIMA models, etc. | 
 | `JustinBrantley_CV` | The LaTex files for my CV/resume |
 | `BasicNeuralPrediction_Example_MATLAB` | A simple tutorial I wrote on how to use `MATLAB` classes for basic prediction using neural data |
 | `FigureMaking-MATLAB-EEG` | Some basic tutorials on figure making in `MATLAB`. Check out the corresponding [blog posts](https://jabrantley.github.io/year-archive/) |
