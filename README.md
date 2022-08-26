@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Justin Brantley ( @jabrantley here on github; [my slowly updating webpage](https://jabrantley.github.io/))
+- 👋 Hi, I’m Justin Brantley ( @jabrantley here on github; [this is my slowly updating webpage](https://jabrantley.github.io/))
 
 - 👀 I’m interested in movement, the brain, and how those two relate. I've mainly worked in the non-invasive neural interface domain, but have recently been thinking a bit more about motor control, how we learn (and learn to learn), and how this is observed in the real world. My current work is focused on using baseball data to show that professional baseball players behave in a way that is predicted by Bayesian statistics. 
 
