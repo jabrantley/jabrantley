@@ -12,7 +12,7 @@ This is my personal repo where I have some code for projects I have worked on th
 
 | Project | Description | 
 | :---    | :---        |
-| [`Bayesball`](https://www.biorxiv.org/content/10.1101/2022.10.12.511934v1)| Repo for the paper, ["Bayesball: Bayesian Integration in Professional Baseball Batters"](https://www.biorxiv.org/content/10.1101/2022.10.12.511934v1) |
+| [`Bayesball`](https://github.com/jabrantley/Bayesball)| Repo for the paper, ["Bayesball: Bayesian Integration in Professional Baseball Batters"](https://www.biorxiv.org/content/10.1101/2022.10.12.511934v1) |
 | [`NEUROLEG`](https://github.com/jabrantley/NEUROLEG) | The contains the MATLAB code I used for implementing a real-time EEG- and EMG-based brain-machine interface for amputees | 
 | [`EmpiricalBayes-Baseball`](https://github.com/jabrantley/EmpericalBayes-Baseball) | This is a `python` adaptation of the book [_Introduction to Empirical Bayes: Examples from Baseball Statistics_](https://drob.gumroad.com/l/empirical-bayes) |
 | [`Deep-Learning`](https://github.com/jabrantley/Deep-Learning) | A (small but on-going) collection of some of my deep learning notebooks. I have many more but I try to clean them up before posting |
